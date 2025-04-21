@@ -1,6 +1,5 @@
 ![github-header-image](https://github.com/user-attachments/assets/0444555b-bad0-4e91-9a20-55e9e91f6ee7)
 
-)
 
 # 💫About Me :
 👋 Hi, I'm Claudia from Valencia, Spain! 🇪🇸 I'm currently studying programming with JavaScript ☕, React ⚛️, HTML & CSS 🎨. I love building user-friendly interfaces and experimenting with frameworks like Tailwind 💨 and Bootstrap 🟣. I'm passionate about writing clean and reusable code ✨, and I'm always eager to learn new technologies 🚀. Feel free to check out my projects! 💻
