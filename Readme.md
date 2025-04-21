@@ -28,4 +28,4 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-![giphy](https://github.com/user-attachments/assets/757c023a-e3e4-4018-8980-5c93f6b71a26)
+
