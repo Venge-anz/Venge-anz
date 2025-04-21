@@ -6,6 +6,9 @@
 # 💫About Me :
 👋 Hi, I'm Claudia from Valencia, Spain! I'm currently studying programming with JavaScript ☕, React ⚛️, HTML & CSS 🎨. I love building user-friendly interfaces and experimenting with frameworks like Tailwind 💨 and Bootstrap 🟣. I'm passionate about writing clean and reusable code ✨, and I'm always eager to learn new technologies 🚀. Feel free to check out my projects! 💻
 
+![dezrmu4-0b463d5d-1c1f-463b-909b-6951227567a5](https://github.com/user-attachments/assets/fa71c813-0012-42bf-963a-0d80080c0d0c)
+
+
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@venge_anz) 
 
@@ -25,3 +28,4 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+![giphy](https://github.com/user-attachments/assets/757c023a-e3e4-4018-8980-5c93f6b71a26)
